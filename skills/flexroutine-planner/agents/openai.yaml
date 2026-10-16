@@ -1,0 +1,7 @@
+interface:
+  display_name: "FlexRoutine Planner"
+  short_description: "Adapt routines to changing schedules"
+  default_prompt: "Use $flexroutine-planner to create a feasible, supportive routine from these habits and available minutes."
+
+policy:
+  allow_implicit_invocation: true
